@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "a4af7c57219d3799",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a80e3b8e64f37e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f26304a807eb82d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/artykuły 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdcd5ab12d0e0935",
+    "type": "split",
+    "children": [
+      {
+        "id": "77afcbc0e9ab149c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aafd1d1ba83f4e53",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75afbccab275f083",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0367527871f323b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82f9b51f59222791",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b4855728f108c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55bfa1b01b054e0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/artykuły 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d04ac5651cbecff1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/artykuły 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf04d0690d626545",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "eaa37498827b5750",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/artykuły 1.md"
+              }
+            }
+          },
+          {
+            "id": "b94137524726874b",
+            "type": "leaf",
+            "state": {
+              "type": "crossbow-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "crossbow:Crossbow": false,
+      "obsidian-map-view:Open map view": false,
+      "khoj:Khoj": false
+    }
+  },
+  "active": "4f26304a807eb82d",
+  "lastOpenFiles": [
+    "Notes/artykuły 2.md",
+    "Map/Mapa Moreny.md",
+    "Notes/artykuły 1.md",
+    "Session notes/Sesja 5.md",
+    "Session notes/Sesja 4.md",
+    "NPC/dzikołaki/Natalia.md",
+    "NPC/dzikołaki/Robert Rzerń.md",
+    "NPC/dzikołaki/Julia Raduń.md",
+    "NPC/Cecylia.md",
+    "NPC/dzikołaki/Sebastian.md",
+    "NPC/anarchiści",
+    "NPC/rada dzielnicy",
+    "NPC/camarilla",
+    "NPC/dzikołaki/Lupina.md",
+    "NPC/dzikołaki",
+    "Notes",
+    "NPC/anarchiści/Sangrel.md",
+    "NPC/Raven.md",
+    "NPC/dzikołaki/Daniel Witka.md",
+    "Session notes/Sesja 3.md",
+    "PC/Albert.md",
+    "Session notes/Sesja 2.md",
+    "Location added on 2024-01-08T14-36.md",
+    "NPC/Bruno.md",
+    "PC/Alex.md",
+    "NPC/Andrzej L.md",
+    "PC/Weronika.md",
+    "PC/Regina.md",
+    "PC/Jagoda.md",
+    "2023-11-24.md",
+    "NPC/rada dzielnicy/Marlena Makuć.md",
+    "Map/map.png",
+    "Map/Untitled.canvas",
+    "Map",
+    "Session notes",
+    "Locations",
+    "NPC",
+    "PC"
+  ]
+}
