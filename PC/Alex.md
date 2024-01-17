@@ -1,5 +1,8 @@
+---
+dg-publish: true
+---
 ## Gracz - Dasha
-
+#PC 
 ## Backstory
 The sire is a woman who was turned in like her 40s, maybe early 50s, but she’s been a vampire for like a couple hundred years probably? She’s like a very classic cigarette mom, her voice is kinda deep and gravelly from all the smoking, she has dark reddish ginger hair, always has this kinda smudged black pencil on her eyes She probably turned his cause she thought my guy was cute, but he doesn’t know for sure cause she very quickly ditched him to kinda figure things out on his own after like explaining the most basic shit, with a very “you’re smart sweet cheeks you can figure it out on your own”
 And then the touchstone character
@@ -29,4 +32,5 @@ Not for a short campaign at least
 
 ## NPC
 
-touchstone /Bez ?/: [[Andrzej L]]
+touchstone /Bez ?/: [[Andrzej Lis]]
+Sire - [[Maria Prusakova]]
