@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Elder's wisdom
 To make you a vampire they have to suck your blood. And then you have to suck their blood. It's like a whole big sucking thing
 -Rasputin
