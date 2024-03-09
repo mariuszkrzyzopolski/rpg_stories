@@ -3,6 +3,8 @@ dg-publish: true
 ---
 ## Gracz - Kasia
 #PC
+
+Clan - Gangrel
 ## Backstory
 
 ## NPC
