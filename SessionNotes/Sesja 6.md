@@ -1,3 +1,4 @@
+#note
 Harcerki - wyprzedaż ciastek i przeniesienie zastępu
 Raven konieczność spotkania
 Josephine - list czy wszystko okej?

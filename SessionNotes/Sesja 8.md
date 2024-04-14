@@ -1,3 +1,4 @@
+#note
 1. brainstorm
 2. walne zebranie
 
@@ -12,7 +13,7 @@ Próba rekrutacji [[Weronika]] przez wyznawców Banu Haqim razem z Path of the B
 
 Goście:
 [[Rasputin|Rasputin, called as Gregorij]], [[Anita Wrona]], [[Bona Ventura]], [[Oreb]], [[Neptun|Neptun as Norbert]] 
-Unconnected Lidia, Wacław, Jodi, Sasha (Tzimitse?), Theo (posłaniec)
+Unconnected Lidia, Wacław, Jodi, [[Sasha Lozar|Sasha]] (Tzimitse?), [[Theo]] (posłaniec)
 [[artykuły 2]]
 
 Path of Lilith:
