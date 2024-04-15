@@ -14,3 +14,6 @@ Potem patrz [[Bernard]]
 
 touchstone /opiekuńczość/: [[Cecylia]]
 touchstone /żyj chwilą/: [[Mariola Szymańska]]
+Mentorka [[Oreb]]
+Przyjaciółka [[Marlena Makuć]]
+*[[Anita Wrona]]*

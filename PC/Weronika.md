@@ -10,3 +10,4 @@ Clan - Gangrel
 ## NPC
 touchstone /harcerskie prawo/: [[Hania]]
 wróg (Camarilla): [[Danuta]]
+Przyjaciel [[Bona Ventura]]

@@ -35,3 +35,5 @@ Not for a short campaign at least
 
 touchstone /Bez ?/: [[Andrzej Lis]]
 Sire - [[Maria Prusakova]]
+Ex [[Daniel Witka]]
+Tymczasowy leader [[Neptun]]

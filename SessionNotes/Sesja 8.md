@@ -8,7 +8,7 @@ Messy fedding w siedzibie camarilli - [[Bona Ventura]] podsyła informację, Cam
 Zaginięcie [[Jagoda]] - żadnych śladów, pokój wyczyszczony
 Wiadomość od dzikołaków - potrzebują pomocy, coś ich ściga - wiedźmi spisek z sabatem(sekta Banu Haqim) - moc powinna być zgromadzona w jednych rękach
 Walne zebranie wampirów moreny - wybranie/ogłoszenie nowego szeryfa - [[Khaled]]
-Córka Lilith [[Oreb]] [[Raven]], podązająca mixem Path of Lilith z  Path of Blood, łącząc nauki Lilith z gromadzeniem mocy poprze diablerize
+Córka Lilith [[Oreb]], podązająca mixem Path of Lilith z  Path of Blood, łącząc nauki Lilith z gromadzeniem mocy poprze diablerize
 Próba rekrutacji [[Weronika]] przez wyznawców Banu Haqim razem z Path of the Beast
 
 Goście:

@@ -7,3 +7,4 @@ dg-publish: true
 
 ## NPC
 touchstone /Jebać rząd/: [[Krystyna]]
+Przyjaciółka [[Josephine]]
